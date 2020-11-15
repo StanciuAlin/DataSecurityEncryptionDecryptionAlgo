@@ -1,0 +1,2 @@
+C:\Users\Alin\source\repos\CountSymbolApperances\Debug\CountSymbolApperances.exe
+C:\Users\Alin\source\repos\CountSymbolApperances\Debug\CountSymbolApperances.pdb

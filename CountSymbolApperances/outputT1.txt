@@ -1,0 +1,59 @@
+
+			 Frequency in nominal value
+	Frequency of char 'A' is 2
+	Frequency of char 'C' is 1
+	Frequency of char 'S' is 1
+	Frequency of char 'a' is 4
+	Frequency of char 'd' is 1
+	Frequency of char 'e' is 10
+	Frequency of char 'g' is 3
+	Frequency of char 'i' is 6
+	Frequency of char 'l' is 1
+	Frequency of char 'm' is 2
+	Frequency of char 'n' is 3
+	Frequency of char 'o' is 1
+	Frequency of char 'p' is 1
+	Frequency of char 'r' is 10
+	Frequency of char 's' is 2
+	Frequency of char 't' is 2
+	Frequency of char 'u' is 5
+	Frequency of char '0' is 423
+	Frequency of char '1' is 415
+	Frequency of char '2' is 403
+	Frequency of char '3' is 388
+	Frequency of char '4' is 397
+	Frequency of char '5' is 387
+	Frequency of char '6' is 391
+	Frequency of char '7' is 409
+	Frequency of char '8' is 427
+	Frequency of char '9' is 416
+
+
+			 Frequency in percentage
+	Frequency of char 'A' in percentage is 0.0485%
+	Frequency of char 'C' in percentage is 0.0243%
+	Frequency of char 'S' in percentage is 0.0243%
+	Frequency of char 'a' in percentage is 0.0970%
+	Frequency of char 'd' in percentage is 0.0243%
+	Frequency of char 'e' in percentage is 0.2426%
+	Frequency of char 'g' in percentage is 0.0728%
+	Frequency of char 'i' in percentage is 0.1456%
+	Frequency of char 'l' in percentage is 0.0243%
+	Frequency of char 'm' in percentage is 0.0485%
+	Frequency of char 'n' in percentage is 0.0728%
+	Frequency of char 'o' in percentage is 0.0243%
+	Frequency of char 'p' in percentage is 0.0243%
+	Frequency of char 'r' in percentage is 0.2426%
+	Frequency of char 's' in percentage is 0.0485%
+	Frequency of char 't' in percentage is 0.0485%
+	Frequency of char 'u' in percentage is 0.1213%
+	Frequency of char '0' in percentage is 10.2620%
+	Frequency of char '1' in percentage is 10.0679%
+	Frequency of char '2' in percentage is 9.7768%
+	Frequency of char '3' in percentage is 9.4129%
+	Frequency of char '4' in percentage is 9.6312%
+	Frequency of char '5' in percentage is 9.3886%
+	Frequency of char '6' in percentage is 9.4857%
+	Frequency of char '7' in percentage is 9.9224%
+	Frequency of char '8' in percentage is 10.3590%
+	Frequency of char '9' in percentage is 10.0922%

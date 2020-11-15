@@ -1,0 +1,28 @@
+The input decrypted with shift 1 is DWWDFNDWR.QFH
+The input decrypted with shift 2 is CVVCEMCVQ.PEG
+The input decrypted with shift 3 is BUUBDLBUP.ODF
+The input decrypted with shift 4 is ATTACKATO.NCE
+The input decrypted with shift 5 is ZSSZBJZSN.MBD
+The input decrypted with shift 6 is YRRYAIYRM.LAC
+The input decrypted with shift 7 is XQQXZHXQL.KZB
+The input decrypted with shift 8 is WPPWYGWPK.JYA
+The input decrypted with shift 9 is VOOVXFVOJ.IXZ
+The input decrypted with shift 10 is UNNUWEUNI.HWY
+The input decrypted with shift 11 is TMMTVDTMH.GVX
+The input decrypted with shift 12 is SLLSUCSLG.FUW
+The input decrypted with shift 13 is RKKRTBRKF.ETV
+The input decrypted with shift 14 is QJJQSAQJE.DSU
+The input decrypted with shift 15 is PIIPRZPID.CRT
+The input decrypted with shift 16 is OHHOQYOHC.BQS
+The input decrypted with shift 17 is NGGNPXNGB.APR
+The input decrypted with shift 18 is MFFMOWMFA.ZOQ
+The input decrypted with shift 19 is LEELNVLEZ.YNP
+The input decrypted with shift 20 is KDDKMUKDY.XMO
+The input decrypted with shift 21 is JCCJLTJCX.WLN
+The input decrypted with shift 22 is IBBIKSIBW.VKM
+The input decrypted with shift 23 is HAAHJRHAV.UJL
+The input decrypted with shift 24 is GZZGIQGZU.TIK
+The input decrypted with shift 25 is FYYFHPFYT.SHJ
+The input decrypted with shift 26 is EXXEGOEXS.RGI
+
+

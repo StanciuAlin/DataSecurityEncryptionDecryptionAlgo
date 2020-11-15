@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\Alin\source\repos\CaesarCipherDecipher\main.c(13,17): warning C4098: 'OpenFileToRead': 'void' function returning a value
+C:\Users\Alin\source\repos\CaesarCipherDecipher\main.c(25,17): warning C4098: 'OpenFileToWrite': 'void' function returning a value
+C:\Users\Alin\source\repos\CaesarCipherDecipher\main.c(54,41): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alin\source\repos\CaesarCipherDecipher\main.c(68,51): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alin\source\repos\CaesarCipherDecipher\main.c(88,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alin\source\repos\CaesarCipherDecipher\main.c(138,45): warning C4018: '<': signed/unsigned mismatch
+  CaesarCipherDecipher.vcxproj -> C:\Users\Alin\source\repos\CaesarCipherDecipher\Debug\CaesarCipherDecipher.exe
