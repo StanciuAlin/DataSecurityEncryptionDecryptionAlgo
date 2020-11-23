@@ -1,0 +1,8 @@
+
+					 Encryption with Playfair cipher
+
+The ciphered text is "bmodzbxdnabekudmuixmmouvif"
+
+					 Decryption with Playfair cipher
+
+The deciphered text is "hide the gold in the tree stump"
